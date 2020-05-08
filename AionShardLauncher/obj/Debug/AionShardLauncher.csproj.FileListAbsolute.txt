@@ -1,0 +1,14 @@
+C:\Users\Tigran\RiderProjects\AionShardLauncher\AionShardLauncher\bin\Debug\AionShardLauncher.exe.config
+C:\Users\Tigran\RiderProjects\AionShardLauncher\AionShardLauncher\bin\Debug\AionShardLauncher.exe
+C:\Users\Tigran\RiderProjects\AionShardLauncher\AionShardLauncher\bin\Debug\AionShardLauncher.pdb
+C:\Users\Tigran\RiderProjects\AionShardLauncher\AionShardLauncher\obj\Debug\AionShardLauncher.csprojAssemblyReference.cache
+C:\Users\Tigran\RiderProjects\AionShardLauncher\AionShardLauncher\obj\Debug\MainWindow.g.cs
+C:\Users\Tigran\RiderProjects\AionShardLauncher\AionShardLauncher\obj\Debug\App.g.cs
+C:\Users\Tigran\RiderProjects\AionShardLauncher\AionShardLauncher\obj\Debug\AionShardLauncher_MarkupCompile.cache
+C:\Users\Tigran\RiderProjects\AionShardLauncher\AionShardLauncher\obj\Debug\MainWindow.baml
+C:\Users\Tigran\RiderProjects\AionShardLauncher\AionShardLauncher\obj\Debug\AionShardLauncher.g.resources
+C:\Users\Tigran\RiderProjects\AionShardLauncher\AionShardLauncher\obj\Debug\AionShardLauncher.Properties.Resources.resources
+C:\Users\Tigran\RiderProjects\AionShardLauncher\AionShardLauncher\obj\Debug\AionShardLauncher.csproj.GenerateResource.cache
+C:\Users\Tigran\RiderProjects\AionShardLauncher\AionShardLauncher\obj\Debug\AionShardLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Tigran\RiderProjects\AionShardLauncher\AionShardLauncher\obj\Debug\AionShardLauncher.exe
+C:\Users\Tigran\RiderProjects\AionShardLauncher\AionShardLauncher\obj\Debug\AionShardLauncher.pdb
