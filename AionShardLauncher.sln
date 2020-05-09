@@ -12,5 +12,6 @@ Global
 		{1D838163-3FBD-4555-801D-164751A57A34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D838163-3FBD-4555-801D-164751A57A34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D838163-3FBD-4555-801D-164751A57A34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D838163-3FBD-4555-801D-164751A57A34}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

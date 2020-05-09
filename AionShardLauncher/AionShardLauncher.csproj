@@ -80,12 +80,15 @@
             <DependentUpon>App.xaml</DependentUpon>
             <SubType>Code</SubType>
         </Compile>
-        <Compile Include="infra\dto\AionGame.cs" />
+        <Compile Include="infra\dto\ServerInfos.cs" />
         <Compile Include="infra\dto\ApiInfos.cs" />
         <Compile Include="infra\dto\Response.cs" />
         <Compile Include="infra\dto\Version.cs" />
+        <Compile Include="infra\exception\PathException.cs" />
         <Compile Include="infra\exception\VersionException.cs" />
         <Compile Include="infra\game\GameLauncher.cs" />
+        <Compile Include="infra\loader\ParseConfigFile.cs" />
+        <Compile Include="infra\loader\PropertiesLoader.cs" />
         <Compile Include="infra\rest\AionShardApiRestClient.cs" />
         <Compile Include="MainWindow.xaml.cs">
             <DependentUpon>MainWindow.xaml</DependentUpon>

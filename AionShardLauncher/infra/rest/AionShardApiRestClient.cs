@@ -29,8 +29,8 @@ namespace AionShardLauncher.infra.rest
 
         public string GetVersionLauncher()
         {
-            IRestRequest restRequest = new RestRequest(Version, Method.GET);
-            IRestResponse<Response> restResponse = _httpClient.Execute<Response>(restRequest);
+            var restRequest = new RestRequest(Version, Method.GET);
+            var restResponse = _httpClient.Execute<Response>(restRequest);
 
             if (restResponse.IsSuccessful)
             {

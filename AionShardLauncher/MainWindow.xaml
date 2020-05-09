@@ -33,7 +33,6 @@
             Path to game:
             <TextBox Name="GamePath"
                      Width="200">
-                Enter here game path
             </TextBox>
         </TextBlock>
 

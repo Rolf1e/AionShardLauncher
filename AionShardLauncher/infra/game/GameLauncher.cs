@@ -2,16 +2,16 @@
 
 namespace AionShardLauncher.infra.game
 {
-    public class GameLauncher
+    public static class GameLauncher
     {
-
-        private const string Start = "start ";
-        public void Launch(string name, string parameter)
+        public static void Launch(string name, string parameter)
         {
-            ProcessStartInfo info = new ProcessStartInfo(name, parameter);
+            var info = new ProcessStartInfo();
+            info.FileName = name;
+            info.Arguments = parameter;
             info.UseShellExecute = false;
-            Process process = new Process {StartInfo = info};
-            process.Start();
+            info.WindowStyle = ProcessWindowStyle.Hidden;
+            Process.Start(info);
         }
     }
 }
