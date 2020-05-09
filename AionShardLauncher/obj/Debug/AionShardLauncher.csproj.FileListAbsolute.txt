@@ -12,3 +12,10 @@ C:\Users\Tigran\RiderProjects\AionShardLauncher\AionShardLauncher\obj\Debug\Aion
 C:\Users\Tigran\RiderProjects\AionShardLauncher\AionShardLauncher\obj\Debug\AionShardLauncher.csproj.CoreCompileInputs.cache
 C:\Users\Tigran\RiderProjects\AionShardLauncher\AionShardLauncher\obj\Debug\AionShardLauncher.exe
 C:\Users\Tigran\RiderProjects\AionShardLauncher\AionShardLauncher\obj\Debug\AionShardLauncher.pdb
+C:\Users\Tigran\RiderProjects\AionShardLauncher\AionShardLauncher\bin\Debug\RestSharp.dll
+C:\Users\Tigran\RiderProjects\AionShardLauncher\AionShardLauncher\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tigran\RiderProjects\AionShardLauncher\AionShardLauncher\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Tigran\RiderProjects\AionShardLauncher\AionShardLauncher\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Tigran\RiderProjects\AionShardLauncher\AionShardLauncher\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tigran\RiderProjects\AionShardLauncher\AionShardLauncher\bin\Debug\RestSharp.xml
+C:\Users\Tigran\RiderProjects\AionShardLauncher\AionShardLauncher\obj\Debug\AionShardLauncher.csproj.CopyComplete
