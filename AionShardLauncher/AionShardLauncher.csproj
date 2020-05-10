@@ -113,5 +113,8 @@
         <None Include="App.config" />
         <None Include="packages.config" />
     </ItemGroup>
+    <PropertyGroup>
+        <ApplicationIcon>logo.ico</ApplicationIcon>
+    </PropertyGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
